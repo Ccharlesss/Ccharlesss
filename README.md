@@ -1,9 +1,19 @@
-## Hi there 👋
+### Hi there, I'm Romain Charles Kuhne but you can call me Charles for simplicity
 
+Having recently graduated with First-Class Honors in Software Engineering, I have developed strong skills in object-oriented programming, data structures and algorithms, computer science, software design, web development, and machine learning.
+
+Through various projects using ASP.NET Core, ASP.NET MVC, FastAPI, Docker, and Jenkins, I have built a solid foundation in backend development and automated software testing. I am also an advocate of self-learning and am currently following a course to enhance my skills in CI/CD pipelines using Jenkins.
+
+Beyond my technical expertise in computer science and software engineering, I am deeply interested in health, nutrition, and mental health awareness. My long-term goal is to one day launch a YouTube channel to discuss these topics and share knowledge with a broader audience.
+
+🔥🔥🔥 I am seeking an entry-level position as either an ASP.NET web developer or a machine learning engineer (Please hire me lol). 🔥🔥🔥
+
+
+- 🔭 I'm Currently working on the server-side of an ASP.NET MVC web application with GraphQl to enable users to manage their finances.
+- 🚀 Followed an introduction to machine learning module at CMU.
+- 💭 I’m currently improving my skills in writting CI/CD pipelines in Jenkins.
+- 📫 How to reach me: [romainccharless@gmail.com](mailto:romainccharless@gmail.com)
 <!--
-**Ccharlesss/Ccharlesss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
