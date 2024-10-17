@@ -1,10 +1,10 @@
 # Hi there, I'm **Romain Charles Kuhne**:
 Having recently graduated with First-Class Honors in Software Engineering, I have developed strong skills in object-oriented programming, data structures and algorithms, computer science, software design, web development, and machine learning.<br><br>Through various projects using ASP.NET Core, ASP.NET MVC, FastAPI, Docker, and Jenkins, I have built a solid foundation in backend development and automated software testing. I am also an advocate of self-learning and am currently following a course to enhance my skills in CI/CD pipelines using Jenkins.
 
-🔭 I'm actively seeking an entry-level position as either an ASP.NET or python web developer or as machine learning engineer.
-🧑‍💻 I'm Currently working on the server-side of an ASP.NET MVC web application with GraphQl to enable users to manage their finances.
-🚀 I’m currently improving my skills in writting CI/CD pipelines in Jenkins.
-📫 How to reach me: romainccharless@gmail.com
+🔭 I'm actively seeking an entry-level position as either an ASP.NET or python web developer or as machine learning engineer.<br><br>
+🧑‍💻 I'm Currently working on the server-side of an ASP.NET MVC web application with GraphQl to enable users to manage their finances.<br><br>
+🚀 I’m currently improving my skills in writting CI/CD pipelines in Jenkins.<br><br>
+📫 How to reach me: romainccharless@gmail.com<br><br>
 
 
 # 💻 Tech Stack:
