@@ -8,6 +8,8 @@ Having recently graduated with First-Class Honors in Software Engineering, I hav
 - 🚀 Interested in backend development and machine learning
 - 📫 How to reach me: romainccharless@gmail.com
 
+- Training for the AWS Certified Cloud Practitioner exam taking place in 2 weeks
+
 # Technical Skills 🔧
 - **Languages**: C, C++, C#, Python, Javascript, Swift, SQL, Bash
 - **Libraries**: Scikit-learn, Pandas, NumPy, LINQ
