@@ -3,12 +3,11 @@ Having recently graduated with First-Class Honors in Software Engineering, I hav
 
 
 - 🔭 Actively seeking an entry-level position as either an ASP.NET or python software engineer
-- 🌱 Currently working on AWS Cloud Practitionner Exam and CKAD
+- 🌱 Currently working on AWS Cloud Practitionner Exam and Kubernetes for my CKAD certification
 - 🧑‍💻 Currently working on the server-side of an ASP.NET MVC web application with GraphQl
 - 🚀 Interested in backend development and machine learning
 - 📫 How to reach me: romainccharless@gmail.com
 
-- Training for the AWS Certified Cloud Practitioner exam taking place in 2 weeks
 
 # Technical Skills 🔧
 - **Languages**: C, C++, C#, Python, Javascript, Swift, SQL, Bash
