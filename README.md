@@ -16,6 +16,7 @@ Having recently graduated with First-Class Honors in Software Engineering, I hav
 - **Databases**: SQL Server, PostgreSQL
 - **Testing**: Pytest, Asyncio, TestContainer, Moq, xUnit
 - **Containerization**: Docker
+- **Container Orchestration**: Kubernetes
 - **CI/CD**: Jenkins
 
 # Education 🎓
