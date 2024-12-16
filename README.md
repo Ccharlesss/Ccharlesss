@@ -30,6 +30,12 @@ Having recently graduated with First-Class Honors in Software Engineering, I hav
   - Machine Learning & AI, Databases
 - **Software Design**: 
   - Advanced Software Design, Computer Architecture, Software Development Environment
+ 
+# Courses & Certifications:
+Here are courses I took:
+- Docker Certified Associate Exam Course
+- Certified Kubernetes Application Developer (CKAD) 
+
 
 
 # 📊 GitHub Stats:
