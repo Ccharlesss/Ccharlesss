@@ -11,7 +11,7 @@ Having recently graduated with First-Class Honors in Software Engineering, I hav
 
 # Technical Skills 🔧
 - **Languages**: C, C++, C#, Python, Javascript, Swift, SQL, Bash
-- **Libraries**: Scikit-learn, Pandas, NumPy, LINQ
+- **Libraries**: Scikit-learn, Pandas, NumPy, LINQ, psycopg2, sqlalchemy
 - **Web Framework**: FastAPI, ASP.NET Core, ASP.NET MVC, React.js
 - **Databases**: SQL Server, PostgreSQL
 - **Testing**: Pytest, Asyncio, TestContainer, Moq, xUnit
